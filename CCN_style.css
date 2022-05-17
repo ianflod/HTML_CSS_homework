@@ -1,0 +1,46 @@
+body {
+    background-color: white;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body>header {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: left;
+}
+
+header>nav>ul {
+    color: white;
+    list-style: none;
+    text-align: right;
+}
+
+#logo {
+    /* padding-top: 50px; */
+    margin: 0%;
+    vertical-align: bottom;
+}
+
+body>main {
+    margin: auto;
+    width: 70%;
+}
+
+body>footer>p {
+    color: white;
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+.img {
+    height: 10%;
+    width: 10%;
+}
+
+.submit_button {
+    float: right;
+    margin-right: 20%;
+    margin-top: 0%;
+}
